@@ -50,7 +50,7 @@ var htmlTemplate=`
 <html>
       <head>
             <title>
-            ${titile}
+            ${title}
             </title>
       </head>
       <body>
